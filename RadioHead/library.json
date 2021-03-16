@@ -32,10 +32,6 @@
     "downloadUrl": "http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.113.zip",
     "dependencies":[
         {
-          "name": "Adafruit-GFX",
-          "frameworks": "arduino"
-        },
-        {
           "name": "SPI",
           "frameworks": "arduino"
         }
